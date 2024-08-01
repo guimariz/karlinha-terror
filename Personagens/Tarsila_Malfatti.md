@@ -1,5 +1,6 @@
 Tarsila Malfatti
-Idade 
+
+Idade 27
 
 Status:
 
