@@ -1,4 +1,4 @@
-Artista
+Tarsila Malfatti - Artista
 
 Crossfiteiro
 
@@ -12,14 +12,19 @@ Piloto de corrida
 
 Professor de karate
 
-2 Padres
+1 padre
+
+1 pastor
 
 Garoto de programas
 
 2  Prostitutas
 
+1 ricão
+
 Cientista
 
 Biólogo
 
-1 Palhaço
+
+
