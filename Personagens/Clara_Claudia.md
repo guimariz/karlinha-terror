@@ -1,0 +1,33 @@
+Artista Circense
+Nome: Clara Martins
+
+Status:
+
+FOR: 3
+AGI: 5
+INT: 3
+VON: 3
+CAR: 4
+Pontos de Vida: 35
+Pontos de Esforço: 35
+Sanidade: 30
+
+Perícias:
+
+ACROBACIA: +4
+ARTES: +4
+ATLETISMO: +3
+INTUIÇÃO: +2
+PERCEPÇÃO: +3
+Itens:
+
+Roupa de artista circense
+Equipamento de acrobacia
+Maquiagem artística
+Kit de primeiros socorros
+Resistências:
+
+Alta flexibilidade
+Capacidade de manter a calma sob pressão
+História:
+Clara Martins nasceu em uma família de artistas circenses e desde pequena demonstrou talento para acrobacias e artes performáticas. Hoje, ela é uma estrela no circo, encantando o público com suas habilidades impressionantes e seu carisma. Clara trabalha duro para manter seu corpo e mente em forma, e é uma verdadeira artista dedicada à sua arte.
