@@ -1,4 +1,5 @@
-Personagem 2: Lucas Ferreira
+Bombeiro
+Lucas Ferreira
 
 Status:
 
