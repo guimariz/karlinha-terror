@@ -1,3 +1,6 @@
+Claro! Aqui estão as fichas refeitas com nomes e histórias detalhadas para cada personagem.
+
+---
 
 ### 2. Crossfiteiro
 
