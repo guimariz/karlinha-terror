@@ -1,0 +1,29 @@
+Nome: Bruno Cardoso
+
+Status:
+
+FOR: 5
+AGI: 4
+INT: 2
+VON: 3
+CAR: 3
+Pontos de Vida: 50 Pontos de Esforço: 40 Sanidade: 35
+
+Perícias:
+
+ATLETISMO: +4
+FORTITUDE: +3
+LUTA: +3
+INICIATIVA: +2
+INTIMIDAÇÃO: +2
+Itens:
+
+Kit de treino de crossfit
+Roupas esportivas de alta performance
+Suplementos nutricionais
+Monitor de frequência cardíaca
+Resistências:
+
+Alta resistência física
+Capacidade de suportar dor intensa
+História: Bruno Cardoso, conhecido como "O Gigante", começou sua jornada no crossfit aos 20 anos após uma lesão no futebol. Ele encontrou no crossfit uma nova paixão e dedicou sua vida ao esporte. Participando de diversas competições, Bruno sempre busca superar seus limites. Além de competir, ele também é treinador e inspira muitos com suas histórias de superação e dedicação. Sua rotina é intensa, combinando treinos exaustivos com uma dieta rigorosa, tudo para atingir a excelência física.
