@@ -1,0 +1,33 @@
+Marido de Aluguel
+Nome: Marcos Silva
+
+Status:
+
+FOR: 4
+AGI: 3
+INT: 3
+VON: 3
+CAR: 3
+Pontos de Vida: 35
+Pontos de Esforço: 30
+Sanidade: 30
+
+Perícias:
+
+TECNOLOGIA: +3
+FORTITUDE: +3
+INVESTIGAÇÃO: +2
+ATLETISMO: +2
+LUTA: +2
+Itens:
+
+Caixa de ferramentas
+Manual de manutenção
+Luvas de trabalho
+Equipamento de segurança
+Resistências:
+
+Resistência a tarefas físicas
+Habilidade em reparos diversos
+História:
+Marcos Silva é um "marido de aluguel", um profissional versátil que oferece serviços de manutenção e reparos domésticos. Ele é conhecido por sua habilidade em resolver problemas e por seu compromisso em entregar um trabalho bem-feito. Marcos é o tipo de pessoa que você pode chamar para qualquer coisa, desde consertar um encanamento até montar móveis.
