@@ -2,7 +2,6 @@ Funerário
 Nome: Gustavo Nunes
 
 Status:
-
 FOR: 3
 AGI: 3
 INT: 4
@@ -11,24 +10,25 @@ CAR: 3
 Pontos de Vida: 30
 Pontos de Esforço: 30
 Sanidade: 35
+( ) ( )
 
 Perícias:
-
 INTUIÇÃO: +4
 MEDICINA: +3
 DIPLOMACIA: +3
 PERCEPÇÃO: +2
 RELIGIÃO: +2
-Itens:
 
+Itens:
 Livro de registros
 Material de embalsamamento
 Manual de práticas funerárias
 Kit de higiene e preservação
-Resistências:
 
+Resistências:
 Alta resistência emocional
 Capacidade de lidar com situações delicadas e de luto
+
 História:
 Gustavo Nunes trabalha em uma funerária, onde cuida da preparação dos corpos e do apoio às famílias enlutadas. Com seu comportamento calmo e empático, ele oferece conforto e suporte durante momentos difíceis. Gustavo é respeitado por sua dedicação e profissionalismo, tratando cada cliente com o máximo respeito e dignidade.
 

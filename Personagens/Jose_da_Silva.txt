@@ -2,32 +2,33 @@ Pescador
 Nome: José da Silva
 
 Status:
-
 FOR: 4
 AGI: 3
 INT: 2
 VON: 3
 CAR: 3
+
 Pontos de Vida: 35
 Pontos de Esforço: 30
 Sanidade: 30
+( ) ( )
 
 Perícias:
-
 SOBREVIVÊNCIA: +4
 ATLETISMO: +3
 FORTITUDE: +3
 INTUIÇÃO: +2
 LUTA: +2
-Itens:
 
+Itens:
 Vara de pesca
 Rede de pesca
 Equipamento de navegação
 Kit de primeiros socorros
-Resistências:
 
+Resistências:
 Alta resistência física
 Habilidade em navegação e pesca
+
 História:
 José da Silva é um pescador experiente que vive à beira-mar. Ele aprendeu a pescar com seu pai e avô, e agora passa seus dias no mar, garantindo o sustento de sua família. José é conhecido por sua coragem e habilidade em enfrentar as intempéries do mar, e por sua capacidade de encontrar os melhores pontos de pesca.

@@ -2,29 +2,31 @@ Almeida
 Nome: Pedro "Pete" Almeida
 
 Status:
-
 FOR: 3
 AGI: 4
 INT: 2
 VON: 3
 CAR: 3
-Pontos de Vida: 30 Pontos de Esforço: 25 Sanidade: 25
+
+Pontos de Vida: 30 
+Pontos de Esforço: 25 Sanidade: 25
+( ) ( )
 
 Perícias:
-
 INVESTIGAÇÃO: +2
 LUTA: +3
 FORTITUDE: +3
 INICIATIVA: +2
 SOBREVIVÊNCIA: +2
-Itens:
 
+Itens:
 Arma de serviço
 Bastão de polícia
 Algemas
 Colete à prova de balas
-Resistências:
 
+Resistências:
 Alta resistência física
 Habilidade em situações de combate
+
 História: Pedro Almeida, apelidado de "Pete", é um policial jovem e cheio de energia. Conhecido por sua ação rápida e habilidades em combate, Pete adora a adrenalina do trabalho de campo. Ele é frequentemente escolhido para missões de alta intensidade devido à sua capacidade de pensar rápido e agir com precisão. Sua paixão pela justiça e dedicação ao serviço são evidentes em tudo que faz.

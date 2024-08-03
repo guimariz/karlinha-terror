@@ -2,7 +2,6 @@ Veterinário
 Nome: Vanessa Valeria
 
 Status:
-
 FOR: 2
 AGI: 3
 INT: 5
@@ -11,24 +10,25 @@ CAR: 3
 Pontos de Vida: 30
 Pontos de Esforço: 25
 Sanidade: 30
+( ) ( )
 
 Perícias:
-
 MEDICINA: +4
 CIÊNCIAS: +4
 INTUIÇÃO: +3
 PERCEPÇÃO: +3
 SOBREVIVÊNCIA: +2
-Itens:
 
+Itens:
 Kit de primeiros socorros veterinário
 Estetoscópio
 Luvas de exame
 Manual de saúde animal
-Resistências:
 
+Resistências:
 Alta capacidade de trabalho sob pressão
 Empatia e habilidade de acalmar animais
+
 História:
 Ana Ferreira é uma veterinária apaixonada por animais. Desde criança, sempre quis trabalhar com a saúde animal e dedicou sua vida ao estudo e prática da veterinária. Ela administra uma clínica local onde cuida de animais de estimação e resgatados. Ana é conhecida por sua empatia e habilidade em tratar animais com carinho e competência.
 
