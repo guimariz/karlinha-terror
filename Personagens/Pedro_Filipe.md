@@ -1,5 +1,5 @@
 Piloto
-Nome: Felipe "Speed" Costa
+Nome: Pedro "Speed" Filipe
 
 Status:
 
