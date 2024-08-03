@@ -1,4 +1,5 @@
-Nome: Ricardo "Rick" Silva
+Mecanico
+Nome: Ricardo Silva
 
 Status:
 
