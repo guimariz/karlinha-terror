@@ -1,3 +1,4 @@
+Piloto
 Nome: Felipe "Speed" Costa
 
 Status:
